@@ -251,7 +251,8 @@ def crawKeggToDatabase(url):
                             print("file write Exception:", e)
     conn = pymysql.connect(host='127.0.0.1', user='root', password='123456', db='paindatabase', charset='utf8')
     cursor1=conn.cursor()
-    sql = "REPLACE INTO kegg_drug VALUES (%(kegg_id)s,%(kegg_url)s,%(Formula)s,%(imgPath)s,%(pic_kegg_structure)s,%(Target_href)s,%(Target_id)s,%(Pathway_href)s,%(Pathway_name)s,%(img_pathway_path)s,%(pic_kegg_pathway)s,%(Structure_map_href)s,%(Structure_map_name)s,%(Structure_map_title)s,%(img_Structure_path)s,%(pic_kegg_structure_map)s)"
+    sql = "REPLACE INTO kegg_drug VALUES(kegg_id,kegg_url,Formula,imgPath,pic_kegg_structure,Target_href,Target_id,Pathway_href,Pathway_name,img_pathway_path,pic_kegg_pathway,Structure_map_href,Structure_map_name,Structure_map_title,img_Structure_path,pic_kegg_structure_map) " \
+          "(%(kegg_id)s,%(kegg_url)s,%(Formula)s,%(imgPath)s,%(pic_kegg_structure)s,%(Target_href)s,%(Target_id)s,%(Pathway_href)s,%(Pathway_name)s,%(img_pathway_path)s,%(pic_kegg_pathway)s,%(Structure_map_href)s,%(Structure_map_name)s,%(Structure_map_title)s,%(img_Structure_path)s,%(pic_kegg_structure_map)s)"
     # value={
     # "kegg_id":kegg_id,
     # "Formula":Formula,
@@ -298,7 +299,7 @@ def write_kegg_drug_link_exist(url):
     f.writelines(url+"\n")
     f.close()
 
-if __name__ =="__main__":
+if __name__ == "__main__":
 
     f_KEGG_Drug_link = open(".." + os.sep + "creawl_drugbank"+os.sep+"KEGG_Drug_link.txt","r")
     #host_list=get_host_list()
