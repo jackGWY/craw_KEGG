@@ -22,9 +22,9 @@ def crawKeggToDatabase(url):
     #host_list_len=len(host_list)
     #count_host=0
     time.sleep(20)
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36'}
-    #headers={'User-Agent': 'User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
+    #headers = {
+        #'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36'}
+    headers={'User-Agent': 'User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'}
     # proxie={"http":host_list[count_host]}
     # if count_host>host_list_len-1:
     #     count_host=0
@@ -251,7 +251,7 @@ def crawKeggToDatabase(url):
                             print("file write Exception:", e)
     conn = pymysql.connect(host='127.0.0.1', user='root', password='123456', db='paindatabase', charset='utf8')
     cursor1=conn.cursor()
-    sql = "REPLACE INTO kegg_drug VALUES(kegg_id,kegg_url,Formula,imgPath,pic_kegg_structure,Target_href,Target_id,Pathway_href,Pathway_name,img_pathway_path,pic_kegg_pathway,Structure_map_href,Structure_map_name,Structure_map_title,img_Structure_path,pic_kegg_structure_map) " \
+    sql = "REPLACE INTO kegg_drug(kegg_id,kegg_url,Formula,imgPath,pic_kegg_structure,Target_href,Target_id,Pathway_href,Pathway_name,img_pathway_path,pic_kegg_pathway,Structure_map_href,Structure_map_name,Structure_map_title,img_Structure_path,pic_kegg_structure_map) VALUES " \
           "(%(kegg_id)s,%(kegg_url)s,%(Formula)s,%(imgPath)s,%(pic_kegg_structure)s,%(Target_href)s,%(Target_id)s,%(Pathway_href)s,%(Pathway_name)s,%(img_pathway_path)s,%(pic_kegg_pathway)s,%(Structure_map_href)s,%(Structure_map_name)s,%(Structure_map_title)s,%(img_Structure_path)s,%(pic_kegg_structure_map)s)"
     # value={
     # "kegg_id":kegg_id,
@@ -298,9 +298,7 @@ def write_kegg_drug_link_exist(url):
     f = open(".." + os.sep + "creawl_drugbank" + os.sep + "KEGG_Drug_link_exist.txt", "a")
     f.writelines(url+"\n")
     f.close()
-
 if __name__ == "__main__":
-
     f_KEGG_Drug_link = open(".." + os.sep + "creawl_drugbank"+os.sep+"KEGG_Drug_link.txt","r")
     #host_list=get_host_list()
     exist_list=kegg_drug_link_exist_list()
