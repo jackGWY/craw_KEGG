@@ -1,0 +1,80 @@
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00775,/dbget-bin/www_bget?ds:H00775,https://www.genome.jpFamilial or sporadic hemiplegic migraine
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00783,/dbget-bin/www_bget?ds:H00783,https://www.genome.jpFebrile seizures
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01815,/dbget-bin/www_bget?ds:H01815,https://www.genome.jpMalignant migrating partial seizures in infancy
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01818,/dbget-bin/www_bget?ds:H01818,https://www.genome.jpDravet syndrome
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00775,/dbget-bin/www_bget?ds:H00775,https://www.genome.jpFamilial or sporadic hemiplegic migraine
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00783,/dbget-bin/www_bget?ds:H00783,https://www.genome.jpFebrile seizures
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01815,/dbget-bin/www_bget?ds:H01815,https://www.genome.jpMalignant migrating partial seizures in infancy
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01818,/dbget-bin/www_bget?ds:H01818,https://www.genome.jpDravet syndrome
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,https://www.genome.jpEsophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,https://www.genome.jpPenile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,https://www.genome.jpCholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,https://www.genome.jpAlcohol dependence

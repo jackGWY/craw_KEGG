@@ -97,16 +97,13 @@ def crawKeggToDatabase(url):
                     try:
                         f = open(".." + os.sep + "pic_kegg_structure" + os.sep + kegg_id + ".gif", 'wb')
                         time.sleep(20)
-                        # proxie = {"http": host_list[count_host]}
-                        # if count_host > host_list_len - 1:
-                        #     count_host = 0
-                        # else:
-                        #     count_host = count_host + 1
+
                         f.write((urllib.request.urlopen(imgPath)).read())
 
                         f.close()
                         value["pic_kegg_structure"]=kegg_id + ".gif"
                     except Exception as e:
+                        print("??????????????????????")
                         print("file write Exception:", e)
 
             if Item == "Target":

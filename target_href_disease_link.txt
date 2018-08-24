@@ -1,0 +1,20 @@
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,Esophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,Esophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,Penile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,Cholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,Esophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,Penile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,Cholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,Alcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00775,/dbget-bin/www_bget?ds:H00775,Familial or sporadic hemiplegic migraine
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00783,/dbget-bin/www_bget?ds:H00783,Febrile seizures
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01815,/dbget-bin/www_bget?ds:H01815,Malignant migrating partial seizures in infancy
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01818,/dbget-bin/www_bget?ds:H01818,Dravet syndrome
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00017,/dbget-bin/www_bget?ds:H00017,Esophageal cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00025,/dbget-bin/www_bget?ds:H00025,Penile cancer
+http://www.genome.jp/dbget-bin/www_bget?hsa:5743,H00046,/dbget-bin/www_bget?ds:H00046,Cholangiocarcinoma
+http://www.genome.jp/dbget-bin/www_bget?hsa:4988,H01611,/dbget-bin/www_bget?ds:H01611,Alcohol dependence
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00775,/dbget-bin/www_bget?ds:H00775,Familial or sporadic hemiplegic migraine
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H00783,/dbget-bin/www_bget?ds:H00783,Febrile seizures
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01815,/dbget-bin/www_bget?ds:H01815,Malignant migrating partial seizures in infancy
+http://www.genome.jp/dbget-bin/www_bget?hsa:6323,H01818,/dbget-bin/www_bget?ds:H01818,Dravet syndrome
